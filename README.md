@@ -1,0 +1,1 @@
+# Comienzo de proyecto con stack completo
